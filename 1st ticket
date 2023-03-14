@@ -1,0 +1,4 @@
+create a repository for terraform projects.
+A ReadMe file with a brief description about the repository
+set branch protection rule for merging on PR
+set your aws credentials as repository secrets
